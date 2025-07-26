@@ -2,7 +2,8 @@
 transformer_env/
 venv/
 env/
-
+lib/
+pip/
 # Python
 __pycache__/
 *.pyc
@@ -10,6 +11,7 @@ __pycache__/
 *.pyd
 .Python
 *.so
+ 
 
 # OS
 .DS_Store
