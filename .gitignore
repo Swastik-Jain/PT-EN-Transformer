@@ -31,4 +31,4 @@ Thumbs.db
 checkpoints/
 logs/
 translator_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
-translator_model/variables/* filter=lfs diff=lfs merge=lfs -text
+translator_model/variables/* filter=lfs diff=lfs merge=lfs -texttranslator_model/variables/
